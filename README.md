@@ -1,2 +1,4 @@
 # weather-forecast
-get weather forecast and show this on a chart
+
+
+See full explanation article here: https://pythonhowtoprogram.com/get-weather-forecasts-and-show-it-on-a-chart-using-python-3/
